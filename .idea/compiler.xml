@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="classfinal-demo" />
+        <module name="devtools-demo" />
+        <module name="logback-demo" />
+        <module name="spring-aop-demo" />
+        <module name="spring-annotation-demo" />
+        <module name="spring-boot-starter-demo" />
+        <module name="java-encryption-decryption-demo" />
+        <module name="simple-study-project" />
+        <module name="java-stream-demo" />
+        <module name="spring-boot-starter-test-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="classfinal-demo" target="1.8" />
+      <module name="devtools-demo" target="1.8" />
+      <module name="java-encryption-decryption-demo" target="1.8" />
+      <module name="java-stream-demo" target="1.8" />
+      <module name="logback-demo" target="1.8" />
+      <module name="simple-study-project" target="1.8" />
+      <module name="spring-annotation-demo" target="1.8" />
+      <module name="spring-aop-demo" target="1.8" />
+      <module name="spring-boot-starter-demo" target="1.5" />
+      <module name="spring-boot-starter-test-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="classfinal-demo" options="-parameters" />
+      <module name="devtools-demo" options="-parameters" />
+      <module name="java-encryption-decryption-demo" options="-parameters" />
+      <module name="java-stream-demo" options="-parameters" />
+      <module name="logback-demo" options="-parameters" />
+      <module name="simple-study-project" options="-parameters" />
+      <module name="spring-annotation-demo" options="-parameters" />
+      <module name="spring-aop-demo" options="-parameters" />
+      <module name="spring-boot-starter-demo" options="" />
+      <module name="spring-boot-starter-test-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

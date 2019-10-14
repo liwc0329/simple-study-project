@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/classfinal-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/devtools-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-encryption-decryption-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-stream-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logback-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-annotation-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-starter-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-starter-test-demo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

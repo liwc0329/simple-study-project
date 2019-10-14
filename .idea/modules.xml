@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classfinal-demo/classfinal-demo.iml" filepath="$PROJECT_DIR$/classfinal-demo/classfinal-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devtools-demo/devtools-demo.iml" filepath="$PROJECT_DIR$/devtools-demo/devtools-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-encryption-decryption-demo/java-encryption-decryption-demo.iml" filepath="$PROJECT_DIR$/java-encryption-decryption-demo/java-encryption-decryption-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-stream-demo/java-stream-demo.iml" filepath="$PROJECT_DIR$/java-stream-demo/java-stream-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-demo/logback-demo.iml" filepath="$PROJECT_DIR$/logback-demo/logback-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-study-project.iml" filepath="$PROJECT_DIR$/simple-study-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation-demo/spring-annotation-demo.iml" filepath="$PROJECT_DIR$/spring-annotation-demo/spring-annotation-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop-demo/spring-aop-demo.iml" filepath="$PROJECT_DIR$/spring-aop-demo/spring-aop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-demo/spring-boot-starter-demo.iml" filepath="$PROJECT_DIR$/spring-boot-starter-demo/spring-boot-starter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-test-demo/spring-boot-starter-test-demo.iml" filepath="$PROJECT_DIR$/spring-boot-starter-test-demo/spring-boot-starter-test-demo.iml" />
+    </modules>
+  </component>
+</project>

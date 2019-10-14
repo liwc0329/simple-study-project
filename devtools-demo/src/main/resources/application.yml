@@ -1,0 +1,17 @@
+spring:
+  devtools:
+    restart:
+      additional-paths: src/main/java
+      exclude:
+  mvc:
+    #指定静态资源上下文目录
+    static-path-pattern: /**
+  resources:
+    #指定静态资源根目录
+    static-locations: classpath:/static/
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+server:
+  port: 8013
